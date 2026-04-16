@@ -1,0 +1,14 @@
+# Data files — too large for GitHub
+data/raw/
+data/clean/
+*.csv
+*.parquet
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
